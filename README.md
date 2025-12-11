@@ -8,7 +8,6 @@ A command line tool for compressing and decompressing files using Sonic Unleashe
 - **CAB (Generations)**: Compress/decompress files using Microsoft Cabinet format
 - Supports multiple file formats: `.ar`, `.ar.??`, `.arl`, `.dds`, `.hkx`, `.xml`
 - Batch processing with recursive directory support
-- Precompiled headers for fast compilation
 
 ## Usage
 
